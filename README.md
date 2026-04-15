@@ -72,6 +72,41 @@ Enter the operator: *
 Result: 23.0 * 12.0 = 276.0
 ```
 
+
+# 🔐 Password Generator (Python)
+
+A simple and secure Password Generator built using Python.  
+This project generates strong, random passwords based on user-defined length and complexity.
+
+---
+
+## 📌 Features
+
+- Generate random and secure passwords
+- User-defined password length
+- Includes:
+  - Uppercase letters (A–Z)
+  - Lowercase letters (a–z)
+  - Numbers (0–9)
+  - Special characters (!@#$%^&*)
+- Easy to use (CLI-based)
+
+### 📸 Sample Output
+
+```
+Enter password length: 8
+Generated Password: {@!09F}`
+```
+
+## 🚀 How It Works
+
+1. User enters desired password length
+2. Program combines different character sets
+3. Random characters are selected
+4. Final password is displayed
+
+
+
 # 🛠️ Requirements
 
 * Python 3.x
