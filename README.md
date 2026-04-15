@@ -61,13 +61,13 @@ A basic calculator that performs arithmetic operations.
 
 
 ### 📸 Sample Output
-
+```
 SIMPLE CALCULATOR
 Enter the 1st number: 23
 Enter the 2nd number: 12
 Enter the operator: *
 Result: 23.0 * 12.0 = 276.0
-
+```
 
 # 🛠️ Requirements
 
@@ -85,3 +85,5 @@ Result: 23.0 * 12.0 = 276.0
 # 📌 Conclusion
 
 These projects demonstrate basic Python concepts such as conditionals, loops, user input handling, and modular logic. They serve as a foundation for more advanced applications in future development.
+
+
