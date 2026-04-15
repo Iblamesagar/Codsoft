@@ -29,6 +29,7 @@ A simple command-line game where the user plays against the computer.
 
 ### 📸 Sample Output
 
+```
 ROCK PAPER SCISSORS GAME
 Instruciton:
 Type rock, paper or scissors to play.
@@ -46,6 +47,7 @@ Scoreboard:
 You:  1
 Computer:  0
 Thanks for playing.
+```
 
 ## 🧮 Simple Calculator
 
@@ -61,6 +63,7 @@ A basic calculator that performs arithmetic operations.
 
 
 ### 📸 Sample Output
+
 ```
 SIMPLE CALCULATOR
 Enter the 1st number: 23
