@@ -1,4 +1,4 @@
-# 💻 CODSOFT Python Internship Projects
+# CODSOFT Python Internship Projects
 
 This repository contains Python projects developed as part of the **CODSOFT Python Programming Internship**.
 
@@ -6,13 +6,13 @@ According to the internship guidelines, participants are required to complete at
 
 ---
 
-# 📂 Projects Included
+# Projects Included
 
-## 🪨 Rock Paper Scissors Game
+## Rock Paper Scissors Game
 
 A simple command-line game where the user plays against the computer.
 
-### 📌 Features
+### Features
 
 * User vs Computer gameplay
 * Random computer choice
@@ -20,14 +20,14 @@ A simple command-line game where the user plays against the computer.
 * Replay option
 * score tracking
 
-### 🎮 Game Rules
+### Game Rules
 
 * Rock beats Scissors
 * Scissors beats Paper
 * Paper beats Rock
 
 
-### 📸 Sample Output
+### Sample Output
 
 ```
 ROCK PAPER SCISSORS GAME
@@ -49,11 +49,11 @@ Computer:  0
 Thanks for playing.
 ```
 
-## 🧮 Simple Calculator
+## Simple Calculator
 
 A basic calculator that performs arithmetic operations.
 
-### 📌 Features
+### Features
 
 * Addition (+)
 * Subtraction (-)
@@ -62,7 +62,7 @@ A basic calculator that performs arithmetic operations.
 * Simple user input interface
 
 
-### 📸 Sample Output
+### Sample Output
 
 ```
 SIMPLE CALCULATOR
@@ -73,14 +73,14 @@ Result: 23.0 * 12.0 = 276.0
 ```
 
 
-## 🔐 Password Generator (Python)
+## Password Generator (Python)
 
 A simple and secure Password Generator built using Python.  
 This project generates strong, random passwords based on user-defined length and complexity.
 
 ---
 
-### 📌 Features
+### Features
 
 - Generate random and secure passwords
 - User-defined password length
@@ -91,14 +91,14 @@ This project generates strong, random passwords based on user-defined length and
   - Special characters (!@#$%^&*)
 - Easy to use (CLI-based)
 
-### 📸 Sample Output
+### Sample Output
 
 ```
 Enter password length: 8
 Generated Password: {@!09F}`
 ```
 
-### 🚀 How It Works
+### How It Works
 
 1. User enters desired password length
 2. Program combines different character sets
@@ -107,12 +107,12 @@ Generated Password: {@!09F}`
 
 
 
-# 🛠️ Requirements
+# Requirements
 
 * Python 3.x
 
 
-# 🚀 Future Improvements
+# Future Improvements
 
 * GUI versions of both applications
 * Better input validation and error handling
@@ -120,7 +120,7 @@ Generated Password: {@!09F}`
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 These projects demonstrate basic Python concepts such as conditionals, loops, user input handling, and modular logic. They serve as a foundation for more advanced applications in future development.
 
