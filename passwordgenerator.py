@@ -1,7 +1,7 @@
 import random
 import string
 
-length = int(input("Enter password length: "))
+length = int(input("\nEnter password length: "))
 
 letters = string.ascii_letters
 digits = string.digits
@@ -18,4 +18,4 @@ for i in range(length - 3):
 
 random.shuffle(password)
 
-print("Generated Password:", "".join(password))
+print("Generated Password:", "".join(password), "\n")
