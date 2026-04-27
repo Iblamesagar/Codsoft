@@ -1,127 +1,77 @@
 # CODSOFT Python Internship Projects
 
-This repository contains Python projects developed as part of the **CODSOFT Python Programming Internship**.
-
-According to the internship guidelines, participants are required to complete at least three tasks and maintain them in a dedicated GitHub repository . This repository includes implementations of selected tasks with clean structure and functionality.
-
----
-
-# Projects Included
-
-## Rock Paper Scissors Game
-
-A simple command-line game where the user plays against the computer.
-
-### Features
-
-* User vs Computer gameplay
-* Random computer choice
-* Winner determination logic
-* Replay option
-* score tracking
-
-### Game Rules
-
-* Rock beats Scissors
-* Scissors beats Paper
-* Paper beats Rock
-
-
-### Sample Output
-
-```
-ROCK PAPER SCISSORS GAME
-Instruciton:
-Type rock, paper or scissors to play.
-Type quit anytime to exit.
-
-Enter a choice (rock,paper,scissors): rock
-
-Player: rock,
-Computer: scissors
-You win!
-
-Play again? (y/n): n
-
-Scoreboard:
-You:  1
-Computer:  0
-Thanks for playing.
-```
-
-## Simple Calculator
-
-A basic calculator that performs arithmetic operations.
-
-### Features
-
-* Addition (+)
-* Subtraction (-)
-* Multiplication (*)
-* Division (/)
-* Simple user input interface
-
-
-### Sample Output
-
-```
-SIMPLE CALCULATOR
-Enter the 1st number: 23
-Enter the 2nd number: 12
-Enter the operator: *
-Result: 23.0 * 12.0 = 276.0
-```
-
-
-## Password Generator (Python)
-
-A simple and secure Password Generator built using Python.  
-This project generates strong, random passwords based on user-defined length and complexity.
+This repository contains all the tasks completed during the CODSOFT Python Programming Internship.  
+Each project focuses on core Python concepts, logic building, and practical application development.
 
 ---
 
-### Features
+## Tasks Overview
 
-- Generate random and secure passwords
-- User-defined password length
-- Includes:
-  - Uppercase letters (A–Z)
-  - Lowercase letters (a–z)
-  - Numbers (0–9)
-  - Special characters (!@#$%^&*)
-- Easy to use (CLI-based)
+### Task 1 – To-Do List Application
+A simple task manager to organize daily activities.
 
-### Sample Output
-
-```
-Enter password length: 8
-Generated Password: {@!09F}`
-```
-
-### How It Works
-
-1. User enters desired password length
-2. Program combines different character sets
-3. Random characters are selected
-4. Final password is displayed
-
-
-
-# Requirements
-
-* Python 3.x
-
-
-# Future Improvements
-
-* GUI versions of both applications
-* Better input validation and error handling
-* Additional features like scoreboards and history tracking
+**Features:**
+- Add tasks
+- View task list
+- Update tasks
+- Delete tasks
+- Simple and clean interface
 
 ---
 
-# Conclusion
+### Task 2 – Calculator
+A basic calculator for performing arithmetic operations.
 
-These projects demonstrate basic Python concepts such as conditionals, loops, user input handling, and modular logic. They serve as a foundation for more advanced applications in future development.
+**Features:**
+- Addition, Subtraction, Multiplication, Division
+- User input-based operations
+- Fast and simple execution
 
+---
 
+### Task 3 – Password Generator
+Generates strong and random passwords.
+
+**Features:**
+- Custom password length
+- Random character combination
+- Improved password strength
+
+---
+
+### Task 4 – Rock-Paper-Scissors Game
+A fun interactive game against the computer.
+
+**Features:**
+- User vs Computer gameplay
+- Random computer choices
+- Win/Lose/Draw logic
+- Replay option
+
+---
+
+### Task 5 – Contact Book
+A contact management system for storing personal details.
+
+**Features:**
+- Add contact (name, phone, email, address)
+- View all contacts
+- Search contacts
+- Update contact details
+- Delete contacts
+
+---
+
+## Tech Used
+- Python
+- Tkinter (for GUI projects)
+- Basic file handling (JSON/text where applicable)
+
+---
+
+## What I Learned
+- Python fundamentals and syntax
+- Working with user input and logic building
+- CRUD operations (Create, Read, Update, Delete)
+- Building small real-world applications
+- Structuring projects and improving code readability
