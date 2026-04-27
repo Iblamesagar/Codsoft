@@ -72,6 +72,5 @@ A contact management system for storing personal details.
 ## What I Learned
 - Python fundamentals and syntax
 - Working with user input and logic building
-- CRUD operations (Create, Read, Update, Delete)
 - Building small real-world applications
 - Structuring projects and improving code readability
